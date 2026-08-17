@@ -1,0 +1,53 @@
+===========================================
+          LABEX SYSTEM INFORMATION
+===========================================
+
+[ SYSTEM ]
+Hostname          : lab-host
+Operating System  : Kali GNU/Linux Rolling
+Kernel            : 7.0.12+kali-amd64
+Architecture      : x86_64
+Uptime            : up 1 hour
+
+[ HARDWARE ]
+CPU               : Example Intel 13th Gen CPU
+CPU Cores         : 4
+Memory            : 1.0Gi used / 5.8Gi total
+Disk              : 26G used / 58G total (46% used)
+
+[ USERS ]
+Logged-in Users   : 1
+
+labuser   seat0   YYYY-MM-DD HH:MM (:0)
+
+[ NETWORK ]
+Interfaces and IP Addresses:
+
+lo               UNKNOWN        127.0.0.1/8 ::1/128
+eth0             UP             192.168.1.100/24
+eth1             UP             192.168.56.101/24
+
+[ SERVICES ]
+Running Services:
+
+accounts-daemon.service
+cron.service
+dbus.service
+getty@tty1.service
+NetworkManager.service
+polkit.service
+ssh.service
+systemd-journald.service
+systemd-logind.service
+systemd-timesyncd.service
+systemd-udevd.service
+udisks2.service
+upower.service
+virtualbox-guest-utils.service
+
+Total Running Services: 14
+
+Note:
+This is sanitized example output for documentation purposes.
+Values have been replaced or generalized to avoid exposing
+environment-specific information.
