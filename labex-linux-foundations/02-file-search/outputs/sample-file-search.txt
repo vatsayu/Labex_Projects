@@ -1,0 +1,12 @@
+==================================
+ 	   LABEX FILE SEARCH
+==================================
+
+[ SEARCH RESULTS]
+Directory : .
+Pattern	: *.md
+
+./docs/lab-report.md
+./README.md
+
+Total files found: 2
