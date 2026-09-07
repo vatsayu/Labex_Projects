@@ -1,0 +1,31 @@
+====================================
+        USER ACCOUNT SETUP
+====================================
+
+[ Account Setup ]
+Username      : labuser
+Primary Group : developers
+Group Status  : already exists
+User Status   : created successfully
+
+[ Security Configuration ]
+Password aging configured successfully.
+
+[ Verification ]
+UID           : 1001
+Primary GID   : 1001
+Primary Group : developers
+Home          : /home/labuser
+Shell         : /bin/bash
+
+[ Password Aging ]
+Minimum Age   : 1 day
+Maximum Age   : 90 days
+Warning       : 14 days
+Inactive      : 30 days
+
+[ Test Result ]
+Passed : 12
+Failed : 0
+
+[+] All tests passed
