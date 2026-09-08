@@ -1,0 +1,3 @@
+Sep 08 20:01:00 lab-host kernel: Test system event
+Sep 08 20:06:00 lab-host kernel: Test service started
+Sep 08 20:11:00 lab-host kernel: Test service stopped

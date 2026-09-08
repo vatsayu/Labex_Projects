@@ -1,0 +1,17 @@
+====================================
+       SYSTEM LOG BACKUP REPORT
+====================================
+
+Backup Timestamp : 2026-09-08_21-35-08
+Source Directory : ./test-data
+Log Files        : 3
+Archive          : system-logs.tar.gz
+Archive Size     : 4.0K
+
+SHA-256:
+30f1ce519ad8025f2088ef362930fc854c672ad7a352176086d8d33210fa4c0f
+
+Archive Integrity : PASS
+SHA-256 Integrity : PASS
+
+Backup Status     : SUCCESS
