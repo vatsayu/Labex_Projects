@@ -1,0 +1,22 @@
+==========================================
+          LINUX SYSTEM MONITOR
+==========================================
+Timestamp       : 2026-09-12 21:45:49
+Hostname        : kali
+Operating System: Kali GNU/Linux Rolling
+Kernel          : 7.1.5+kali-amd64
+Uptime          : up 11 hours, 17 minutes
+------------------------------------------
+CPU Usage       : 2.00%
+Memory Usage    : 21.44%
+Disk Usage /    : 6%
+Logged-in Users : 1
+IP Addresses    : <xxxx> 
+Running Services: 24
+------------------------------------------
+[OK] CPU usage is within limits
+[OK] Memory usage is within limits
+[OK] Disk usage is within limits
+------------------------------------------
+System Health   : HEALTHY
+==========================================
